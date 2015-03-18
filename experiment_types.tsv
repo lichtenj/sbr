@@ -1,0 +1,13 @@
+ID	NAME
+1	Expression Array
+2	RNASeq
+3	Methylation Array
+4	MethylSeq
+5	ChIP Array
+6	ChIPSeq
+7	Histone Array
+8	HistoneSeq
+9	microRNA Array
+10	microRNASeq
+11	ncRNA Array
+12	ncRNASeq
